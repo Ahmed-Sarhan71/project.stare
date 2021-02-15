@@ -1,0 +1,98 @@
+.iphone{
+  width: 75%;
+}
+
+h1{
+  color: white;
+  line-height: 1.5;
+}
+h2{
+  line-height: 1.5;
+  font-family: "Montserrat-Bold"
+  font-size:3rem;
+
+
+}
+h1,h3,p{
+
+
+  font-family: 'Montserrat';
+
+
+}
+
+.title{background-color: #4b2751;}
+/* #ff4c68 */
+.iphone{
+  transform:rotate(25deg);
+}
+
+.brand{
+font-family: 'Ubuntu';
+font-weight: bold;
+font-size: 2.5rem;
+
+}
+
+.feature-box{
+font-size: 1.5rem;
+text-align: center;
+padding: 5%;
+
+}
+
+.feature-item{
+color: #8f8f8f;
+
+}
+
+.testimonials{
+
+  background-color: #191970;
+  /* #ef8172 */
+
+  text-align: center;
+}
+.carousel-item{
+    padding: 7% 15%;
+    color: white;
+}
+
+.cotton{
+  width:30%;
+  padding: 5% 0 5%;
+}
+
+.naruto{
+  width:42%;
+}
+.nar{
+
+  width:50%;
+}
+.nav-item{
+font-size: 1.5rem;
+
+}
+
+.navv{
+background-color: #191970;
+}
+
+.big-heading{
+  padding: 5% 5% 0;
+}
+
+.social{
+  padding: 1rem 1rem;
+
+
+}
+.bottom-container{
+  text-align: center;
+  padding : 7% 0;
+}
+
+.navlogo{
+  width: 5%;
+}
